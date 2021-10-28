@@ -12,7 +12,7 @@
 </div>
 <h3 style="margin-top:30px">💪 My Skills</h3>
 <div>
-  <img align='right' width=470px src="https://github-readme-stats.vercel.app/api?username=seonpilKim&show_icons=true&theme=gruvbox"><br>
+  <img align='right' width=300px src="https://github-readme-stats.vercel.app/api?username=seonpilKim&show_icons=true&theme=gruvbox"><br>
 </div>
 
 <div align='left'>

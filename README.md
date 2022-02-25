@@ -8,7 +8,7 @@
 
 - 🐥 I'm currently learning `Spring`, `JPA` and `Algorithm`
 - 🥇 I majored in Computer Engineering at Inha University.
-- 💒 I live in Boseong, Jeollanam-do, Korea.<br><br><br><br>
+- 💒 I live in Incheon, Korea.<br><br><br><br>
 </div>
 <h3 style="margin-top:30px">💪 My Skills</h3>
 <div>

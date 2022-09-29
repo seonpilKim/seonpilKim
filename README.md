@@ -10,6 +10,108 @@
 
 
 </div>
+
+<h3 style="margin-top:30px">🛫 Projects</h3>
+<table>
+    <tr>
+        <th style="text-align: center" width="20%">Subject</th>
+        <th style="text-align: center" width="30%">Description</th>
+        <th style="text-align: center" width="10%">Organization</th>
+        <th style="text-align: center" width="15%">My Roles</th>
+        <th style="text-align: center" width="13%">Period</th>
+        <th style="text-align: center" width="12%">State</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Instagram-Clone-Coding">Instagram Clone Project</a></td>
+        <td>인스타그램 웹 서비스를 분석하여 <b>설계-개발-테스트-리팩토링-배포</b>를 거치면서 개발 역량 강화와 커뮤니케이션 및 협업 능력 향상을 목표로 진행하는 프로젝트</td>
+        <td>
+            <img src="https://img.shields.io/badge/2-Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=flat-square"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Team Leader-FF4747?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/Cloud engineer-FF9A00?style=flat-square"/>
+        </td>
+        <td>2021. 09. 11<br>~<br>Current</td>
+        <td><img src="https://img.shields.io/badge/In progress-E34F26?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MBTImaker">MBTI 유형 분석 기반 추천 서비스</a></td>
+        <td>MBTI 유형을 분석하여 "나와 비슷한 영화 캐릭터", "나에게 추천하는 영화 3가지"를 알려주는 웹 서비스</td>
+        <td>
+            <img src="https://img.shields.io/badge/1-Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/1-Designer-FF4F8B?style=flat-square"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/Cloud engineer-FF9A00?style=flat-square"/>
+        </td>
+        <td>2021. 10. 30<br>~<br>2021. 12. 20</td>
+        <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/WeGrus/WeGrus-BE-Spring">교내 동아리 홈페이지 제작 프로젝트</a></td>
+        <td>인하대학교 SW 프로그래밍 동아리 IGRUS 홈페이지를 개발하는 토이 프로젝트</td>
+        <td>
+            <img src="https://img.shields.io/badge/2-Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=flat-square"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Team Leader-FF4747?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/Cloud engineer-FF9A00?style=flat-square"/>
+        </td>
+        <td>2022. 1. 3<br>~<br>2022. 3. 10</td>
+        <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/zoopi-palette/zoopi-spring-backend">반려동물 헌혈관리 서비스</a></td>
+        <td>동물간 지정헌혈 매칭 플랫폼을 제공하고, 동물헌혈이 가능한 병원을 추천해주며, 헌혈을 통해 건강검진 또는 다양한 혜택을 안내하여 반려동물의 건강관리를 돕는 서비스</td>
+        <td>
+            <img src="https://img.shields.io/badge/2-Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/3-Android-9933CC?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/4-Designer-FF4F8B?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/2-PM-21375A?style=flat-square"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br>
+        </td>
+        <td>2022. 5. 25<br>~<br>2022. 9. 26</td>
+        <td><img src="https://img.shields.io/badge/Pull the plug-535D6C?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td>포인트 데이터 통계 생성 batch 및 멤버십 서비스 RM 구축 프로젝트</td>
+        <td>SK텔레콤 멤버십서비스개발팀에서 인턴기간동안 진행한 현업 프로젝트.<br>회원별 일일 포인트 사용/적용 및 멤버십 할인 데이터를 전처리해서 엑셀 파일로 변환하여 S3에 업로드하는 batch 구현과, 어뷰징 의심 행위자에 대해 특정 log를 남기고 이를 Datadog에서 감지하여 Slack에 알림을 보내는 실시간 모니터링 시스템을 구축하는 프로젝트</td>
+        <td>
+            <img src="https://img.shields.io/badge/1-Backend-83B81A?style=flat-square"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/>
+        </td>
+        <td>2022. 7. 18<br>~<br>2022. 8. 26</td>
+        <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td>Happy Birthday Challenge Project</a></td>
+        <td>생일 축하를 위한 롤링페이퍼를 온라인 상에서 작성할 수 있는 서비스.<br>오프라인에서 작성하는 생생한 느낌과 온라인만의 장점을 융합한 웹/앱 기반 프로젝트</td>
+        <td>
+            <img src="https://img.shields.io/badge/1-Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/1-Frontend-31A8FF?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/1-Android-9933CC?style=flat-square"/><br>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/Cloud engineer-FF9A00?style=flat-square"/>
+        </td>
+        <td>2022. 9. 28<br>~<br>Current</td>
+        <td><img src="https://img.shields.io/badge/In progress-E34F26?style=flat-square"/></td>
+    </tr>
+</table>
+</table>
+
 <h3 style="margin-top:30px">💪 Tech Stacks</h3>
 
 <div>
@@ -127,7 +229,7 @@
 	<tr>
         <td>Communication</td>
         <td>
-            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=NotionA&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
             <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
         </td>
     </tr>
@@ -151,7 +253,7 @@
             <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
             <img src="https://img.shields.io/badge/ElastiCache-527FFF?style=flat-square&logo=Amazon AWS&logoColor=white"/>
             <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/ELB-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ELB-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/><br>
             <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
             <img src="https://img.shields.io/badge/Internet gateway-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
             <img src="https://img.shields.io/badge/NAT gateway-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
@@ -173,10 +275,9 @@
 <div>
     <img align="left" width=433px src="https://github-readme-stats.vercel.app/api?username=seonpilKim&show_icons=true&theme=gruvbox">
     <a href="https://solved.ac/12161542">
-	<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=12161542">
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=12161542">
     </a>
 </div>
 
-<div align="right">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseonpilKim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-</div>
+<br>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseonpilKim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">

@@ -53,8 +53,8 @@
         <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/WeGrus/WeGrus-BE-Spring">교내 동아리 홈페이지 제작 프로젝트</a></td>
-        <td>인하대학교 SW 프로그래밍 동아리 IGRUS 홈페이지를 개발하는 토이 프로젝트</td>
+        <td><a href="https://github.com/WeGrus/WeGrus-BE-Spring">대학교 동아리 홈페이지 제작 프로젝트</a></td>
+        <td>대학교 SW 프로그래밍 동아리 IGRUS 홈페이지를 개발하는 토이 프로젝트</td>
         <td>
             <img src="https://img.shields.io/badge/2-Backend-83B81A?style=flat-square"/><br>
             <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=flat-square"/>

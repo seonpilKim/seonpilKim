@@ -5,8 +5,9 @@
 
 - 🐥 I was born in `1997` and was born in `Yeosu`, Korea.
 - 💒 I'm currently living in `Incheon`, Korea.
-- 🥇 I majored in `Computer Science Engineering` at `Inha University` in Korea.
+- 🥇 I majored in `Computer Science Engineering` at `**** University` in Korea.
 - 🎯 I'm currently interested in `Backend developer` and `Cloud engineer`.
+- 🗼 I had an `Backend/Server internship` at `SKTelecom` in Korea.
 
 
 </div>
@@ -96,10 +97,9 @@
     </tr>
     <tr>
         <td>Happy Birthday Challenge Project</a></td>
-        <td>생일 축하를 위한 롤링페이퍼를 온라인 상에서 작성할 수 있는 서비스.<br>오프라인에서 작성하는 생생한 느낌과 온라인만의 장점을 융합한 웹/앱 기반 프로젝트</td>
+        <td>생일 축하를 위한 롤링페이퍼를 온라인 상에서 작성할 수 있는 서비스.<br>오프라인에서 작성하는 생생한 느낌과 온라인만의 장점을 융합한 앱 개발 프로젝트</td>
         <td>
             <img src="https://img.shields.io/badge/1-Backend-83B81A?style=flat-square"/><br>
-            <img src="https://img.shields.io/badge/1-Frontend-31A8FF?style=flat-square"/><br>
             <img src="https://img.shields.io/badge/1-Android-9933CC?style=flat-square"/><br>
         </td>
         <td>

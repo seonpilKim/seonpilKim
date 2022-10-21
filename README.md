@@ -274,10 +274,10 @@
 <br>
 
 <div>
-    <img align="left" width=433px src="https://github-readme-stats.vercel.app/api?username=seonpilKim&show_icons=true&theme=gruvbox">
+    <!-- <img align="left" width=433px src="https://github-readme-stats.vercel.app/api?username=seonpilKim&show_icons=true&theme=gruvbox"> 
     <a href="https://solved.ac/12161542">
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=12161542">
-    </a>
+    </a> -->
 </div>
 
 <br>

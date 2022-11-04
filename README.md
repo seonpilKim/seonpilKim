@@ -3,11 +3,12 @@
 <h3>🙋‍♂️ Who am I</h3>
 <div>
 
-- 🐥 I was born in `1997` and was born in `Yeosu`, Korea.
+- 🐣 I was born in `1997` and was born in `Yeosu`, Korea.
 - 💒 I'm currently living in `Incheon`, Korea.
-- 🥇 I majored in `Computer Science Engineering` at `Inha University` in Korea.
+- 🎓 I majored in `Computer Science Engineering` at `Inha University` in Korea.
 - 🎯 I'm currently interested in `Backend developer` and `Cloud engineer`.
 - 🗼 I had an `Backend/Server internship` at `SKTelecom` in Korea.
+- 🏆 I got the `SW test(Professional) certificate` from `Samsung SDS`.
 
 
 </div>

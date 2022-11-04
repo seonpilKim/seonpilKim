@@ -3,7 +3,7 @@
 <h3>🙋‍♂️ Who am I</h3>
 <div>
 
-- 🐣 I was born in `1997` and was born in `Yeosu`, Korea.
+- 🐣 I was born in Yeosu, Korea in `1997`.
 - 💒 I'm currently living in `Incheon`, Korea.
 - 🎯 I'm currently interested in `Backend developer` and `Cloud engineer`.
 - 🎓 I majored in `Computer Science Engineering` at `Inha University` in Korea.

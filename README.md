@@ -103,6 +103,7 @@
             <img src="https://img.shields.io/badge/1-Backend-83B81A?style=flat-square"/><br>
             <img src="https://img.shields.io/badge/1-Android-9933CC?style=flat-square"/><br>
 	    <img src="https://img.shields.io/badge/1-QA-FF6550?style=flat-square"/><br>
+            <img src="https://img.shields.io/badge/1-Designer-FF4F8B?style=flat-square"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br>

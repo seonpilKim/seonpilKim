@@ -1,4 +1,4 @@
-<img align='center' src="https://capsule-render.vercel.app/api?type=waving&text=SeonPilKim&animation=fadeIn&fontColor=ffeacd&color=ffe9cd">
+<img align='center' src="https://capsule-render.vercel.app/api?type=waving&text=KimSeonPil(Sean)&animation=fadeIn&fontColor=ffeacd&color=ffe9cd">
 
 <h3>🙋‍♂️ Who am I</h3>
 <div>

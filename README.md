@@ -7,7 +7,7 @@
 - 💒 I'm currently living in `Incheon`, Korea.
 - 🎯 I'm currently interested in `Backend developer` and `Cloud engineer`.
 - 🎓 I majored in `Computer Science Engineering` at `Inha University` in Korea.
-- 🗼 I had an `Backend/Server internship` at `SKTelecom` in Korea.
+- 💻 I had an `Backend/Server internship` at `SKTelecom🗼` and `DanggeunPay🥕` in Korea.
 - 🏆 I got the `SW test(Professional) certificate` from `Samsung SDS` in Korea.
 
 
@@ -83,18 +83,6 @@
         </td>
         <td>2022. 5. 25<br>~<br>2022. 9. 26</td>
         <td><img src="https://img.shields.io/badge/Pull the plug-535D6C?style=flat-square"/></td>
-    </tr>
-    <tr>
-        <td>포인트 데이터 통계 생성 batch 및 멤버십 서비스 RM 구축 프로젝트</td>
-        <td>SK텔레콤 멤버십서비스개발팀에서 인턴기간동안 진행한 현업 프로젝트.<br>회원별 일일 포인트 사용/적용 및 멤버십 할인 데이터를 전처리한 통계 데이터를 엑셀 파일로 변환하여 S3에 업로드하는 batch 구현과, 어뷰징 의심 행위자에 대해 특정 log를 남기고 이를 Datadog에서 감지하여 Slack에 알림을 보내는 실시간 모니터링 시스템을 구축하는 프로젝트</td>
-        <td>
-            <img src="https://img.shields.io/badge/1-Backend-83B81A?style=flat-square"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/>
-        </td>
-        <td>2022. 7. 18<br>~<br>2022. 8. 26</td>
-        <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/HappyBirthdayChallenge">Happy Birthday Challenge Project</a></td>

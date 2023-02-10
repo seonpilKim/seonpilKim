@@ -107,44 +107,18 @@
 
 <div>
 <table>
-	<tr>
-        <th rowspan="4">⚛ Frontend</th>
-        <td>Language</td>
-        <td>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-        </td>
-    </tr>
-	<tr>
-        <td>Library</td>
-        <td>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-        </td>
-    </tr>
-	<tr>
-        <td>View Template</td>
-        <td>
-            <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
-        </td>
-    </tr>
-	<tr>
-        <td>Asynchronous</td>
-        <td>
-            <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
-        </td>
-    </tr>
-	<tr>
-        <th rowspan="11">🌱 Backend</th>
+    <tr>
+        <th rowspan="12">🌱 Backend</th>
         <td>Language</td>
         <td>
             <img src="https://img.shields.io/badge/Java 11-007396?style=flat-square&logo=Java&logoColor=white"/>
+	    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
         </td>
     </tr>
 	<tr>
         <td>Framework</td>
         <td>
-            <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
         </td>
     </tr>
@@ -155,13 +129,19 @@
             <img src="https://img.shields.io/badge/Querydsl-003366?style=flat-square&logo=Querydsl&logoColor=white"/>
         </td>
     </tr>
-	<tr>
+    <tr>
+        <td>View Template</td>
+        <td>
+            <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
         <td>SMTP</td>
         <td>
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
         </td>
     </tr>
-	<tr>
+    <tr>
         <td>Authorization</td>
         <td>
             <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
@@ -169,7 +149,7 @@
             <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=OAuth2&logoColor=white"/>
         </td>
     </tr>
-	<tr>
+    <tr>
         <td>Messaging</td>
         <td>
             <img src="https://img.shields.io/badge/WebSocket-EE4D2D?style=flat-square&logo=WebSocket&logoColor=white"/>
@@ -177,13 +157,13 @@
             <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>    
         </td>
     </tr>
-	<tr>
+    <tr>
         <td>API Documentation</td>
         <td>
             <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>    
         </td>
     </tr>
-	<tr>
+    <tr>
         <td>Database</td>
         <td>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -202,6 +182,7 @@
         <td>
             <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
             <img src="https://img.shields.io/badge/Mockito-83B81A?style=flat-square&logo=Mockito&logoColor=white"/>
+	    <img src="https://img.shields.io/badge/Kotest-7F52FF?style=flat-square&logo=Kotest&logoColor=white"/>
         </td>
     </tr>
 	<tr>
@@ -209,7 +190,7 @@
         <td>
             <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
         </td>
-    </tr>
+	</tr>
 	<tr>
         <th rowspan="4">👨‍👩‍👦‍👦 Collaboration</th>
         <td>API Test</td>
@@ -223,6 +204,8 @@
             <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
             <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
 	    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+	    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
         </td>
     </tr>
 	<tr>

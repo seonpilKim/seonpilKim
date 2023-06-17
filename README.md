@@ -35,8 +35,8 @@
             <img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br>
             <img src="https://img.shields.io/badge/Cloud engineer-FF9A00?style=flat-square"/>
         </td>
-        <td>2021. 09. 11<br>~<br>Current</td>
-        <td><img src="https://img.shields.io/badge/In progress-E34F26?style=flat-square"/></td>
+        <td>2021. 09. 11<br>~<br>2023. 03. 22</td>
+        <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/MBTImaker">MBTI 유형 분석 기반 추천 서비스</a></td>
